@@ -15,36 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/algolia/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/algolia/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Tharisuudev/TharisuuProfile/master/profile-summary-card-output/algolia/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
